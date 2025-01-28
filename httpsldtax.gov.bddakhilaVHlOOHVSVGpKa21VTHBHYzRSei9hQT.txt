@@ -252,7 +252,7 @@
                                     <table style="width:100%;">
                                         <tbody><tr>
                                             <td>সিটি কর্পোরেশন /পৌর /ইউনিয়ন ভূমি অফিসের নাম  :</td>
-                                            <td class="dotted_botton" width="60%">বন্দর ইউনিয়ন ভূমি  অফিস</td>
+                                            <td class="dotted_botton" width="60%">গাজীপুর ইউনিয়ন ভূমি  অফিস</td>
                                         </tr>
                                     </tbody></table>
                                     <table style="margin-top:5px; width:100%;">
